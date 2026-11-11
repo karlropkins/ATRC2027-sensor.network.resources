@@ -1,6 +1,6 @@
-# ATRC2026-sensor.network.resources 
+# ATRC2027-sensor.network.resources 
 
-Open Research resources used for the ATRC2026 paper 'Sensor Network Workflows 
+Open Research resources used for the ATRC2027 paper 'Sensor Network Workflows 
 for Turning Big Data into Evidence: A Case Study of Lagos'
 
 ##  Data 
