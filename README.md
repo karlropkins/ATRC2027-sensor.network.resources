@@ -20,7 +20,7 @@ most commonly base R, Python and associated public-license packages:
 * R Core Team, R v.4.6.1 (https://www.R-project.org/)
 * Python Software Foundation, Python v3.1. (http://www.python.org) 
 
-Specialist software tools: 
+## Specialist software tools: 
 
 * Maps were generated using OpenStreetMap or dependent 
 data-mapping packages
